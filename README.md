@@ -1,27 +1,5 @@
-Welcome to the HyperDev BETA
-============================
+Welcome to the HyperDev BETA# Tell Time
 
-Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
+This is just a very simple JavaScript project I am using to teach my son a little bit about coding.
 
-HyperDev is a developer playground that lets you code a real web-app without the slow setup and deployment steps. 
-
-[About HyperDev](https://hyperdev.com/about)
-
-
-Your Project
-------------
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env`
-
-On the front-end,
-- edit `client.js`, `style.css` and `index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-
-Made by Fog Creek
------------------
-
-\ ゜o゜)ノ
+We use [Glitch](https://glitch.com) to play around with it which is really cool!
