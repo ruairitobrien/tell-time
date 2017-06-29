@@ -1,0 +1,62 @@
+https://cdn.hyperdev.com/a60bd165-68ef-449c-9793-a12181e08f18/time.png/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: 
+  linear-gradient(
+      rgba(76, 76, 76, 0.45), rgba(89, 89, 89, 0.45) 
+  ),
+  url(https://cdn.hyperdev.com/a60bd165-68ef-449c-9793-a12181e08f18%2Fmoondial.jpg);
+  background-attachment: fixed;
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.time {
+  background: 
+  linear-gradient(
+      /*rgba(226,226,226,0.45), rgba(219,219,219,0.45)*/
+      rgba(212,228,239,0.45), rgba(134,174,204,0.45)
+      /*rgba(147,206,222,0.45), rgba(117,189,209,0.45)*/
+      /*rgba(73,155,234,0.45), rgba(32,124,229,0.45) */
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.picker {
+  background: 
+  linear-gradient(
+      /*rgba(226,226,226,0.45), rgba(219,219,219,0.45)*/
+      /*rgba(212,228,239,0.45), rgba(134,174,204,0.45)*/
+      /*rgba(147,206,222,0.45), rgba(117,189,209,0.45)*/
+      rgba(73,155,234,0.6), rgba(32,124,229,0.6) 
+  );
+}
+
+.answer {
+  background: 
+  linear-gradient(
+      rgba(226,226,226,0.45), rgba(219,219,219,0.45)
+      /*rgba(212,228,239,0.45), rgba(134,174,204,0.45)*/
+      /*rgba(147,206,222,0.45), rgba(117,189,209,0.45)*/
+      /*rgba(73,155,234,0.45), rgba(32,124,229,0.45) */
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
