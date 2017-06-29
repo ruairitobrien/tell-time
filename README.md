@@ -1,4 +1,4 @@
-Welcome to the HyperDev BETA# Tell Time
+# Tell Time
 
 This is just a very simple JavaScript project I am using to teach my son a little bit about coding.
 
